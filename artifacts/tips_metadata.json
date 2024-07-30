@@ -39,11 +39,11 @@
 	},
 	"sources": {
 		"tips.sol": {
-			"keccak256": "0xe6cc69b0dd9b947da023432a896888967a5b96dd57e2c212a942f05b9d5e5e65",
+			"keccak256": "0x71913ba3c2424a4e1449bb0a69cacf1eac6b9757307c841f4803639669687c7c",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://3a9845c31349429d06fa4e914a4d5884188792a287d1b355a46424b27d796c7f",
-				"dweb:/ipfs/QmT74kYU1eXv7qiPQWy8i75RUDu6YDPAUi1AqKrX2KKXZy"
+				"bzz-raw://56bdd0dae97b6eac776a8e8adb5c08db8af2491f26537b0a9ef12de8373056c5",
+				"dweb:/ipfs/QmXVF7hnZkMkF9zAHMbvFwUiYiBi58AyvPsykvz2qgTtW3"
 			]
 		}
 	},

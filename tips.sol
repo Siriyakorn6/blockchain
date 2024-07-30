@@ -1,9 +1,9 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.26;
 
-contract tips {
-     address owner;
-    constructor(){
+contract tips { //ชื่อ
+     address owner; //ที่อยู่ กับ เจ้าของ
+    constructor(){ //วิ่งครั้งแรก
         owner = msg.sender;
     }
 
